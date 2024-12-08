@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814032161170",
+    "project_id": "kanban-innoscripta",
+    "storage_bucket": "kanban-innoscripta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814032161170:android:b37eb51f09059712fd994b",
+        "android_client_info": {
+          "package_name": "com.example.kanban"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXbOQOt7Pr-bXndshPuFdjyIk_XZFaETI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

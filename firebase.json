@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "kanban-innoscripta",
+                    "appId": "1:814032161170:android:b37eb51f09059712fd994b",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "kanban-innoscripta",
+                    "configurations": {
+                        "android": "1:814032161170:android:b37eb51f09059712fd994b",
+                        "ios": "1:814032161170:ios:c58212178b8b4714fd994b",
+                        "macos": "1:814032161170:ios:c58212178b8b4714fd994b",
+                        "web": "1:814032161170:web:b4257427bc78568bfd994b",
+                        "windows": "1:814032161170:web:9c380c2c9e1b13f2fd994b"
+                    }
+                }
+            }
+        }
+    }
+}
